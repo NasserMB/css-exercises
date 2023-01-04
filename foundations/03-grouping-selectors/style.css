@@ -1,0 +1,14 @@
+.clsone,
+.clstwo {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.clsone {
+    background-color: black;
+    color: white;
+}
+
+.clstwo {
+    background-color: yellow;
+}
