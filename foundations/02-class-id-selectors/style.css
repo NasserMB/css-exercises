@@ -1,0 +1,21 @@
+/* style.css */
+
+.oddclass {
+    background-color: rgb(253, 139, 139);
+    font-family: Verdana, "DejaVu Sand", sans-serif;
+}
+
+#firstid {
+    color: blue;
+    font-size: 36px;
+}
+
+.oddclass2 {
+    font-size: 24px;
+}
+
+#secondid {
+    background-color: rgb(114, 246, 114);
+    font-size: 24px;
+    font-weight: bold;
+}
